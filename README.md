@@ -4,7 +4,7 @@
   se atreven a decir que su impacto historia de la humanidad es comparable con el de la electricidad y el fuego, y a pesar de que puede traer desventajas
   es necesario que estas sean superadas para sacar el mayor provecho de esta tecnología 
 
-# Las herramientas más conocidas para manejar redes neuronalnes son:
-* TensorFlow y PyTorch.
+# LAS HERRAMIENTAS MAS CONOCIDAS PARA MANEJAR REDES NEURONALES SON :
+
 *  Keras es una API se utiliza para facilitar el consumo del backend.
 *  Utilizaremos la tarjeta GPU, porque permite procesas más datos matemáticos necesarios en el deep learning.
