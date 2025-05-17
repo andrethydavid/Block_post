@@ -21,3 +21,4 @@ Caja negra: Nosotros conocemos las entradas a las redes neuronales. Sim embargo,
 ![image](https://github.com/user-attachments/assets/bdfa0742-bfd7-4e2b-bd4d-e6663adf7dee)
 
 REDES
+HOLA
