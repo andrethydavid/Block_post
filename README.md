@@ -52,3 +52,4 @@ Diseñar un proceso de datos confiable, automatizado y reproducible, aplicando b
 * Bases de datos
 
 
+La ingeniería de datos no empieza con la herramienta; empieza entendiendo el negocio y termina garantizando datos confiables.
