@@ -51,4 +51,4 @@ Diseñar un proceso de datos confiable, automatizado y reproducible, aplicando b
 * Git & GitHub
 * Bases de datos
 
-> **Principio del proyecto:** primero entender el negocio, después procesar los
+
