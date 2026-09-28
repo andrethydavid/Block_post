@@ -50,5 +50,4 @@ Diseñar un proceso de datos confiable, automatizado y reproducible, aplicando b
 * Power BI
 * Git & GitHub
 * Bases de datos
-
-
+red
