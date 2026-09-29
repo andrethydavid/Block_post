@@ -1,4 +1,4 @@
-red## PROYECTO ING DE DATOS 🛢️
+## PROYECTO ING DE DATOS 🛢️
 # 🛢️ Proyecto de Ingeniería de Datos
 
 Proyecto enfocado en construir un flujo de datos completo, desde el entendimiento del negocio hasta la validación y transformación de la información.
