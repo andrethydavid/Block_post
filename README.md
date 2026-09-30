@@ -93,6 +93,3 @@ Licencia Apache
       forma, que se basa en (o se deriva de) la Obra y para la cual la
       revisiones editoriales, anotaciones, elaboraciones u otras modificaciones
       representan, en su conjunto, una obra original de autoría. A los efectos
-      de esta Licencia, las Obras Derivadas no incluirán obras que permanezcan
-      separables de, o simplemente vinculados (o ligados por nombre) a las interfaces de,
-      La Obra y las Obras Derivadas de la 
