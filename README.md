@@ -92,4 +92,4 @@ Licencia Apache
       "Obras derivadas" significará cualquier obra, ya sea en Fuente u Objeto
       forma, que se basa en (o se deriva de) la Obra y para la cual la
       revisiones editoriales, anotaciones, elaboraciones u otras modificaciones
-      representan, en su conjunto, una obra original de autoría. A los efectos
+      representan, en su conjunto, una obra original de autoría. A los efectos este producto es mio
